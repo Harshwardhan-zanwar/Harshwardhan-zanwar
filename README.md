@@ -1,5 +1,5 @@
 # 💫 About Me:
-“CS undergrad building scalable systems and sharpening problem-solving skills.”<br><br>“Aspiring SDE | Learning by building | Obsessed with clean logic & impact”
+“CS undergrad building LLM-powered systems | RAG • Gen AI • Agentic AI ”<br><br>“ Learning by building | Obsessed with clean logic & impact”
 
 
 ## 🌐 Socials:
